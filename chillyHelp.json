@@ -1,0 +1,38 @@
+[
+    {
+        "name":"**__help__**",
+        "value":"Lists this menu!"
+    },
+    {
+        "name":"**__ping__**",
+        "value":"Returns a pong reply."
+    },
+    {
+        "name":"**__tickle [user]__**",
+        "value":"Tickles a user."
+    },
+    {
+        "name":"**__[*secret command*]__**",
+        "value":"You're gonna need to input the secret ***password*** to figure this one out."
+    },
+    {
+        "name":"**__fillthechatwithfun__**",
+        "value":"These are tough times, so you might need a joke."
+    },
+    {
+        "name":"**__hi__**",
+        "value":"Sends a greeting to ChillyBot"
+    },
+    {
+        "name": "**__server__**",
+        "value": "Reveals the name of the server"
+    },
+    {
+        "name": "**__members__**",
+        "value": "Reveals the amount of members in the server"
+    },
+    {
+        "name":"**__restrict [user]__**",
+        "value":"***{ADVANCED AUTHORIZATION REQUIRED}*** Restricts a user's ability to speak in the server."
+    }
+]

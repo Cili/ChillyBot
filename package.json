@@ -1,8 +1,8 @@
 {
-  "name": "chillybot",
+  "name": "***INSERT BOT NAME***",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+  "main": "***INSET BOT'S RELATIVE FILE LOCATION***",
   "dependencies": {
     "discord.js": "^11.5.1",
     "profanities": "^2.13.0",
