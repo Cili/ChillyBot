@@ -1,7 +1,7 @@
 # ChillyBot
 ##The Slightly More Deployable ChillyBot Files
 
-I, Jon Cili, have made a multi-purpose Discord Bot. It can complete the following tasks:
+I, Jon Cili, have made a multi-purpose Discord Bot that can complete the following tasks:
 1. Censor swear words from lists of provided swear words.
 2. Entertain by means of responding to commands message that start with the ampersand symbol.
 3. Restrict specific (annoying) users on a channel from speaking.
