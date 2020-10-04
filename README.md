@@ -1,8 +1,12 @@
 # ChillyBot
-The ChillyBot Files
+##The Slightly More Deployable ChillyBot Files
 
-I, Jon Cili, have made a Discord that bot that not only provides for entertainment in a server but ALSO censors bad words.
+I, Jon Cili, have made a multi-purpose Discord Bot. It can complete the following tasks:
+1. Censor swear words from lists of provided swear words.
+2. Entertain by means of responding to commands message that start with the ampersand symbol.
+3. Restrict specific (annoying) users on a channel from speaking.
+4. Provide the developer with general information about users and servers through the IDE terminal.
 
-However, this github repository is incomplete at the moment and will be updated as I work on the project.
+That being said, this Discord bot is not fully deployable as of yet. Anyone who stumbles upon this github repository is free to clone my code, but MUST fill in all the specific gaps in the code in order for the bot to work. All locations in the 6 files that say "***INSERT ___*** require manual insertion of information.
 
-For the time being, the main code can be found in the "bot.js" file. 
+I hope you enjoy a more wholesome server as a result of my ChillyBot!
