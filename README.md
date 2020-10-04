@@ -1,5 +1,5 @@
 # ChillyBot
-## The Slightly More Deployable ChillyBot Files
+#### The Slightly More Deployable ChillyBot Files
 
 I, Jon Cili, have made a multi-purpose Discord Bot that can complete the following tasks:
 1. Censor swear words from lists of provided swear words.
