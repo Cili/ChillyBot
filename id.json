@@ -1,7 +1,8 @@
 {
     "names": 
     [
-        ["***INSERT BOT ID NUMBER***", "***INSERT BOT USERNAME***", "***INSERT BOT NAME (SHOULD BE THE SAME AS USERNAME)***", false]
+        ["***INSERT BOT ID NUMBER***", "***INSERT BOT USERNAME***", "***INSERT BOT NAME (SHOULD BE THE SAME AS USERNAME)***", false], 
+        ["***INSERT USER ID NUMBER***", "***INSERT USERNAME***", "***INSERT NAME (can be real name, nick name, or alias)***", false]
     ],
 
     "serverIDs": 
