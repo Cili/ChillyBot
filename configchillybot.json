@@ -14,8 +14,7 @@
         "Fun Fact: An 1000-sided polygon is called a chiliagon!"
     ],
 
-    "reppositive": 
-    [
+    "reppositive": [
         "what are those!?", 
         "what are those!?", 
         "how's your day going", 
@@ -29,26 +28,13 @@
 
     "chillyWords" : ["jon", "cili", "j0n", "chilly", "c1l1", "c!l!"],
 
-    "basicSwears": 
-    [
-        "fuck", "shit", "bitch", "b1tches", "cunt", "ass", "b1tch", "niger", "asshole", "fuq", 
-        "fvck", "nigga", "shit", "sh1t", "cunt", "shit", "f0ck", "shiit", "sh1t", "whore", 
-        "fock", "@$$", "@ss", "a$$","sex", "wh0r3z", "hoe", "ғⓤ𝕔𝓀", "twerk", "s3x", "s ex",
-        "乃Ļᵒ𝐰", "𝓈𝑒𝓍𝓎", "cult", "c u l t", "asś", "fųck", "shït", "n i g g a", "f u c k",
-        "masturbation", "lube", "lubricant", "sh!t", "f*ck","wh*re","s*×",
-        "c*nt", "beast!al!ty", "!ncest", "d!ldo", "d!ldo", "anvs", "a/l/us", "dismemberment",
-        "$3x", "v!r!ns", "decapitate", "clut", "fu\\ck", "progressive", "cu\\nt"
-    ],
-
-    "swearMistakes" :
-    [
+    "swearMistakes" : [
         "password", "pass", "hello"
     ],
 
     "alphabet": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
 
-    "swearResponses": 
-    [
+    "swearResponses": [
         "\nYou have no right to swear!", 
         "\nHa, NOPE!", 
         "\nStop forking swearing!", 
@@ -61,8 +47,7 @@
         "\n Do you talk to YO MAMA with those words?!"
     ],
 
-    "restrictionResponses":
-    [
+    "restrictionResponses": [
         "I regret to inform you that your privilege of speaking in this server has been temporarily suspended.",
         "What's that you said? Oh wait, I DON'T CARE, because you aren't allowed to talk in this server anymore for the time being!",
         "I regret to inform you that your constitutional right of freedom of speech as an USA-ian has been temporarily stripped away for you for reasons deemed necessary to the health and wholesomeness of the the overall community of this server.",
@@ -71,8 +56,8 @@
         "Why do you insist on speaking when you KNOW that I'll keep stopping you?! Are you trying to break me?",
         "Who do you think you are... \nRunning around leaving swears... \nCollecting your jar of texts... \nTearing conversation apart... \nYou're gonna catch a cold.. \nFrom the ice inside your words..."
     ],
-    "botResponses": 
-    [
+    
+    "botResponses": [
         "\nI AM THE ONLY BOT THAT MATTERS IN THIS SERVER",
         "\nGet outta here you filthy bot.",
         "\nI've never been one for sharing. So let me put it like this: this is MY SERVER, NOT YOURS!",
