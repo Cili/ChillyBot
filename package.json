@@ -4,9 +4,7 @@
   "description": "",
   "main": "***INSET BOT'S RELATIVE FILE LOCATION***",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "profanities": "^2.13.0",
-    "retext-profanities": "^6.0.0"
+    "discord.js": "^11.5.1"
   },
   "devDependencies": {},
   "scripts": {
