@@ -11,8 +11,7 @@ I, Jon Cili, have made a multi-purpose Discord bot framework that can complete t
 The code in this repository is merely a *framework*, as it requires some additional info to become fully deployable. Specifically, the following must be done to the code:
 1. In the file titled "chillyBotSpecificProfanities.json", insert all of the words that you would like to censor. Each word should be surrounded by quotes and followed by a comma.
 2. In the file titled "configchillybot.json", insert the token number of your bot. (To make a discord bot, go to https://discord.com/developers/applications).
-3. In the file titled "configchillybot.json", insert a command prefix of your choice. This prefix should be a character that is rarely used in regular conversation, such as the exclamation point or the ampersand.
-4. In the file titled "id.json", fill in all the required information pertaining to your bot (your bot's ID #, your bot's username, and your bot's name).
+3. In the file titled "id.json", fill in all the required information pertaining to your bot (your bot's ID #, your bot's username, and your bot's name).
 5. In the file titled "id.json", fill in the required information pertaining to all of the users you would like to manage across all of your servers. For each user you would like to manage, fill in the user's ID #, the user's username, and the user's name/nickname.
 
 I hope you enjoy a more wholesome server as a result of my ChillyBot!
