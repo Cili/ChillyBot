@@ -3,7 +3,7 @@
 
 I, Jon Cili, have made a multi-purpose Discord bot framework that can complete the following tasks:
 1. Censor swear words from a list of programmer-provided swear words.
-2. Entertain by means of responding to specific command messages that start with a programmer-provided symbol.
+2. Entertain by means of responding to specific command messages that start with an exclamation mark.
 3. Restrict specific users on a channel from speaking.
 4. Provide the developer with general information about users and servers through his/her respective IDE terminal.
 
