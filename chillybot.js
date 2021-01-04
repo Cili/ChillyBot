@@ -145,7 +145,7 @@ bot.on("message", async msg => {
                         msg.delete();
                         msg.channel.send("HEY " + msg.author + "! \nNot only have you chosen to desecrate this sacred server with your foul language, " + 
                             "but you have also chosen to use such language alongside JON CILI's name!!! \nHow could you commit such an atrocious action?!");
-                        console.log("\nThe following swear word was found in your server along side your sacred name: \n *" + swearLoop + 
+                        console.log("\nThe following swear word was found in your server along side Jon Cili's name: \n *" + swearLoop + 
                             "*\n\nIt was identified in the following message: \n" + "*" + msg.content + "*");
                         swearBool = false;
                         break firstLoop;
