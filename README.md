@@ -14,4 +14,4 @@ The code in this repository is merely a *framework*, as it requires some additio
 3. In the file titled "id.json", fill in all the required information pertaining to your bot (your bot's ID #, your bot's username, and your bot's name).
 4. In the file titled "id.json", fill in the required information pertaining to all of the users you would like to manage across all of your servers. For each user you would like to manage, fill in the user's ID #, the user's username, and the user's name/nickname.
 
-I hope you enjoy a more wholesome server as a result of my ChillyBot!
+I hope you enjoy a more wholesome server as a result of my ChillyBot framework!
