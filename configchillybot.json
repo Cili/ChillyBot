@@ -1,9 +1,6 @@
 {
     "token":"***INSERT BOT TOKEN***",
-    "prefix":"&",
-    "serverIds" : [
-        ["***INSERT SERVER NAME***", "***INSERT SERVER ID NUMBER***"]
-    ],
+    "prefix":"***INSERT COMMAND PREFIX***",
 
     "appositive": [
         "Absobloodylutely!", 
