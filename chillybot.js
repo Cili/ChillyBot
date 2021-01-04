@@ -33,10 +33,7 @@ var stringy2 = "----------------------------------------------------------------
 var restrictionLevel;
 var notice = ` Please contact <@!${names[1][0]}> for more info.`
 var botPrevent = false;
-var openingMsg = false;  //Set this to true if you want to notify the server that ChillyBot has gone online!
 var restrictionIncrementor = -1;
-
-
 
 //These bottom four variables convert the array into a usable string. rss stands for rawSwearString
 var rss = JSON.stringify(profanities);
@@ -64,18 +61,6 @@ async function delay(ms) {
 
 
 bot.once("ready", function() {
-
-    //This bottom section sends an opening msg to all the servers that ChillyBot is on
-    if(openingMsg) {
-        for (number of serverIds) {
-            bot.channels.get(number[1]).send(stringy2 + `\n${bot.user.username} has been ` + 
-                "activated in this server in order to provide for a more wholesome and chill server.").then((msg) => {
-            msg.channel.send("Here is a list of commands:", {embed: helpMenuEmbed});
-            msg.channel.send(stringy2)
-            });
-        }
-    }
-
     console.log("\n" + stringy)
     if (bot.guilds.size === 1) {
         console.log(`${bot.user.username} has been initiated. Serving ${bot.guilds.size} server.`);
