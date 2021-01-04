@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
-const profanities = require("./chillybotSpecificProfanities.json"); 
-//The JSON file that is required above was altered from the original module titled "profanities." This package can be found on https://github.com/words/profanities
+const profanities = require("./chillybotSpecificProfanities.json"); //For a pre-made list of swear words, visit https://github.com/words/profanities
 const bot = new Discord.Client();
 const config = require("./configchillybot.json");
 const fs = require("fs");
@@ -9,7 +8,7 @@ const { assert } = require("console");
 const helpMenuJSON = JSON.parse(fs.readFileSync("./chillyHelp.json"));
 const helpMenuEmbed = {
     title: "Chilly Commands",
-    description: "Bot Prefix = '&'",
+    description: "Bot Prefix = '!'",
     fields: helpMenuJSON,
 }
 
