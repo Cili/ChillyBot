@@ -19,7 +19,6 @@ const prefix = config.prefix;
 const appositive = config.appositive;
 const reppositive = config.reppositive;
 const cmd = config.cmd;
-const basicSwears = config.basicSwears;
 const alphabet = config.alphabet;
 const swearResponses = config.swearResponses;
 const serverIds = idList.serverIds;
@@ -162,10 +161,7 @@ bot.on("message", async msg => {
             } 
         } 
     }
-    hasSwears(basicSwears);
-    if (swearBool) {
-        hasSwears(extensiveSwears);
-    }
+    hasSwears(extensiveSwears);
 
     if(msg.content.trim().startsWith(prefix) && msg.content.trim().length > 1) {
 
