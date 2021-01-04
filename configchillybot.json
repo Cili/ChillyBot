@@ -1,6 +1,6 @@
 {
     "token":"***INSERT BOT TOKEN***",
-    "prefix":"***INSERT COMMAND PREFIX***",
+    "prefix":"!",
 
     "appositive": [
         "Absobloodylutely!", 
