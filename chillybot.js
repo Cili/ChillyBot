@@ -39,7 +39,6 @@ var restrictionIncrementor = -1;
 var rss = JSON.stringify(profanities);
 var rss1 = rss.replace("[", "");
 var rss2 = rss1.replace("]", "");
-// eslint-disable-next-line no-useless-escape -- The double quotations marks escape character surrounded by regex is necessary to convert a JSON object into a usable array
 var rss3 = rss2.replace(/\"/g, "");
 
 var extensiveSwears = rss3.split(",");
